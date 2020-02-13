@@ -164,7 +164,7 @@ footer {
 		color: #FFFFFF;
 	}
 
-	nav li a:visted {
+	nav li a:visited {
 		color: #FFFF99;
 	}
 	
@@ -173,6 +173,7 @@ footer {
 		font-style: italic;
 	}
 	
+/* style specifies a gradient for the body element */
 	body {
 		background: -moz-linear-gradient(#FFFFFF, #FFFF99); /* Firefox */
 		background: -o-linear-gradient(#FFFFFF, #FFFF99); /* Opera */
