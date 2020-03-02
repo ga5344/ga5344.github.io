@@ -254,7 +254,7 @@ form ul {
 		width: 100%;
 	}
 	
-	th, td, {
+	th, td {
 		border: 0.1em solid #000000;
 		padding: 1em;
 	}
