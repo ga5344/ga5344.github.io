@@ -288,7 +288,7 @@ form ul {
 @media only screen and (min-width: 830px) {
 	
 	#container {
-		color: #1D1D1C;
+		background-color: #1D1D1C;
 	}
 	
 	header {
@@ -371,7 +371,7 @@ form ul {
 	
 	footer {
 		background-color: #2A2A2A;
-		margin: -0.2em;
+		margin-top: -0.2em;
 		padding: 2em;
 	}
 
